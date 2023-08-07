@@ -1,0 +1,60 @@
+main {
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+
+}
+
+.contato{
+    gap: 30px;
+    display: flex;
+    width: 900px;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.texto {
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: #cb7832;
+    width: 100%;
+}
+
+.email , .nome {
+    height: 40px;
+    width: 100%;
+}
+
+.feedback {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    text-align: left;
+    vertical-align: text-top;
+    padding: 5px 10px;
+
+}
+
+.email, .nome, .feedback {
+    background-color: rgba(255, 255, 255, 0.418);
+    color: black;
+    border-radius: 15px;
+
+}
+
+input::placeholder {
+    color: rgba(0, 0, 0, 0.603);
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+
+}
+
+input {
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+}
