@@ -1,0 +1,92 @@
+@import 'style.css';
+
+main {
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    font-family: 'Bangers', cursive;
+    
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+.opcoes {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 27px;
+    gap: 30px;
+}
+
+.texto {
+    font-size: 30px;
+    max-width: 400px;
+    color: var(--cor-paragrafo); 
+    line-height: 40px;
+    margin-top: 20px;
+}
+
+.bloco-1 {
+    background-image: url(/img/fundo-bloco-1.png);
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    background-repeat: no-repeat;
+    background-size: 900px 500px;
+    margin-top: 70px;
+    height: 370px;
+    
+}
+
+.bloco-2 {
+    background-image: url(/img/fundo-bloco-2.png);
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    height: 350px;
+    margin-top: 20px;
+    width: 900px;
+    justify-content: space-around;
+    
+}
+
+.plataformas {
+    width: 100%;
+}
+
+.bloco-1, .bloco-2 {
+    text-align: center;
+    color: var(--cor-paragrafo);
+    line-height: 50px;
+    align-items: center;
+    
+}
+
+a {
+    width: 300px;
+  
+}
+
+.conteudo {
+    max-height: 90%;
+    max-width: 95%; /* Defina o tamanho máximo desejado para o conteúdo */
+    margin: 0 auto; /* Centraliza horizontalmente o conteúdo */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.botao {
+    width: 25%;
+    font-size: 40px;
+}
+
+
+
