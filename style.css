@@ -38,3 +38,7 @@ a {
     background-image: linear-gradient(to bottom, #cb7833, #4d1a09);
     
 }
+
+a:hover {
+    opacity: 0.8;
+}
