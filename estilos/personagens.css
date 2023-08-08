@@ -23,6 +23,7 @@ main {
     width: 230px;
     border-radius: 24%;
     border: 3px solid transparent;
+    transition: all 0.5s;
     
 }
 
@@ -49,6 +50,7 @@ main {
 
 .imagem:hover {
     border: 3px solid white;
+    opacity: 0.8;
 }
 
 .texto-container {

@@ -37,7 +37,7 @@ main {
     text-align: left;
     vertical-align: text-top;
     padding: 5px 10px;
-
+    
 }
 
 .email, .nome, .feedback {
@@ -47,7 +47,7 @@ main {
 
 }
 
-input::placeholder {
+input::placeholder, textarea::placeholder {
     color: rgba(0, 0, 0, 0.603);
     font-size: 30px;
     font-family: 'Bangers', cursive;
@@ -58,3 +58,4 @@ input {
     font-size: 30px;
     font-family: 'Bangers', cursive;
 }
+
