@@ -1,3 +1,5 @@
+@import 'style.css';
+
 main {
     font-family: 'Bangers', cursive;
 }
@@ -49,14 +51,14 @@ main {
 }
 
 .imagem:hover {
-    border: 3px solid white;
+    border: 3px solid var(--cor-branca);
     opacity: 0.8;
 }
 
 .texto-container {
     font-size: 30px;
     max-width: 400px;
-    color: #cb7832;
+    color: var(--cor-laranja-principal);
     text-align: center;
     margin-top: 30px;
     line-height: 40px;

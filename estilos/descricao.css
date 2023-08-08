@@ -1,3 +1,9 @@
+@import 'style.css';
+
+:root {
+    --cor-titulo : rgba(94, 189, 206, 0.74);
+    --cor-paragrafo : rgba(255, 255, 255, 0.651);
+}
 
 .conteudo {
     width: 900px;
@@ -10,17 +16,17 @@
 
 h1 {
     font-size: 64px;
-    color: rgba(94, 189, 206, 0.74);
+    color: var(--cor-titulo);
 }
 
 h2{
     font-size: 50px;
-    color: rgba(94, 189, 206, 0.74);;
+    color: var(--cor-titulo);
 }
 
 p{
     font-size: 30px;
-    color: rgba(255, 255, 255, 0.651);
+    color: var(--cor-paragrafo);
 }
 
 .foto-personagem {

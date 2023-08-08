@@ -1,3 +1,5 @@
+@import 'style.css';
+
 main {
     display: flex;
     height: 100%;
@@ -21,7 +23,7 @@ main {
     justify-content: center;
     align-items: center;
     height: 100px;
-    color: #cb7832;
+    color: var(--cor-laranja-principal);
     width: 100%;
 }
 
@@ -42,7 +44,7 @@ main {
 
 .email, .nome, .feedback {
     background-color: rgba(255, 255, 255, 0.418);
-    color: black;
+    color: var(--cor-preta);
     border-radius: 15px;
 
 }
