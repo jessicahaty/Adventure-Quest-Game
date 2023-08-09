@@ -1,0 +1,35 @@
+@import 'style.css';
+
+.bloco-1 {
+    margin-left: 26px;
+}
+
+.texto {
+    margin-top: 10px;
+    line-height: 40px;
+    font-size: 30px;
+    max-width: 400px;
+    color: var(--cor-paragrafo);
+    text-align: center;
+    font-family: 'Bangers', cursive;
+
+}
+
+.jogabilidade {
+    max-width: 1000px;
+    font-size: 35px;
+    color: var(--cor-paragrafo);
+    display: flex;
+    align-items: center;
+    font-family: 'Bangers', cursive;
+    line-height: 40px;
+}
+
+.jogabilidade li {
+    margin-bottom: 20px;
+}
+
+
+span {
+    color: #e9cf3e91;
+}
