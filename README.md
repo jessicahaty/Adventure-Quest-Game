@@ -4,7 +4,7 @@
 
 Bem-vindo ao Adventure Quest, um projeto de jogo RPG que traz interface visualmente deslumbrantes.
 
-Esse projeto foi impulsionado por fins educacionais proposto pela (link Inara), ele oferece uma visão de como a combinação de tecnologia e criatividade pode resultar em algo único e ilustra a capacidade de superar obstáculos e evoluir por meio da dedicação ao aprendizado e à aplicação prática.
+Esse projeto foi impulsionado por fins educacionais proposto pela [Inara Aleida](https://www.linkedin.com/in/inaralmeida/), ele oferece uma visão de como a combinação de tecnologia e criatividade pode resultar em algo único e ilustra a capacidade de superar obstáculos e evoluir por meio da dedicação ao aprendizado e à aplicação prática.
 
 
 
