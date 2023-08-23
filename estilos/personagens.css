@@ -30,19 +30,19 @@ main {
 }
 
 .maga {
-    background-image: url(/img/Maga.png);
+    background-image: url(../img/Maga.png);
 }
 
 .necromante {
-    background-image: url(/img/Necromante.png);
+    background-image: url(../img/Necromante.png);
 }
 
 .guerreira {
-    background-image: url(/img/Guerreira.png);
+    background-image: url(../img/Guerreira.png);
 }
 
 .arqueira {
-    background-image: url(/img/Arqueira.png);
+    background-image: url(../img/Arqueira.png);
 }
 
 .nome {
