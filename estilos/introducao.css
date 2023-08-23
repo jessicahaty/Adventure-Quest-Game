@@ -31,7 +31,7 @@ h1{
 }
 
 .bloco-1 {
-    background-image: url(/img/fundo-bloco-1.png);
+    background-image: url(../img/fundo-bloco-1.png);
     background-size: contain;
     display: flex;
     flex-direction: column;
@@ -44,7 +44,7 @@ h1{
 }
 
 .bloco-2 {
-    background-image: url(/img/fundo-bloco-2.png);
+    background-image: url(../img/fundo-bloco-2.png);
     background-size: contain;
     display: flex;
     flex-direction: column;
